@@ -1,7 +1,7 @@
 
 # Escape-From-Zombieland
 
-Version: 0.1
+Version: 0.1<br/>
 Last update: 25/11/2021
 
 Come and try our game ! (The game is still under development)
@@ -16,6 +16,8 @@ You can start a game from the Menu. Each game ends when your character dies. At 
 The player can shoot these zombies in 4 different directions: up, right, down, and left. Zombies have random health points. These numbers of life points are more or less high depending on the type of Zombie.
 
 The player can collect items. These items will either be used to increase statistics (such as precision or strength) or they will be stored in an inventory.
+<br/>
+<br/>
 
 >/!\\ WARNING /!\\
 >For the moment the inventory is visible but none of the items inside are usable
@@ -23,19 +25,29 @@ The player can collect items. These items will either be used to increase statis
 ### The Options:
  The options are not modifiable at the moment. The game
  is playable with the keyboard or the controller (stable: Xbox type,    others are not guaranteed).
+<br/>
+<br/>
 
- II. Your feedback:
+### Your feedback:
 If you have a bug, an idea of ​​addition, or changes, do not hesitate to let us know, that's the reason for this Dropbox.
+<br/>
+<br/>
 
 ### The Updates:
 The game will be updated often here, so be sure to check back to see the progress and test the new possibilities.
+<br/>
+<br/>
 
 ### Known Bugs:
 * Player take damage from zombies when he's under them.
 * Some Items can move when the player move around theme.
+<br/>
+<br/>
 
 ### To come up:
 The game is not over, before submitting your feedback to us, we invite you to read this section.
+<br/>
+<br/>
 
 * Features
      - Quest System
@@ -65,8 +77,10 @@ The game is not over, before submitting your feedback to us, we invite you to re
      - Different Weapon Design
      - Damage Effect
 
+<br/>
+<br/>
 
-### Credits:
+### Credits:<br/>
 - Alexandre PEREIRA
 - Hugo MEYER
 - Pauline NEUMANN
