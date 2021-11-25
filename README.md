@@ -6,6 +6,11 @@ Last update: 25/11/2021
 
 Come and try our game ! (The game is still under development)
 
+### Installation:
+1. Download Files from this page.
+2. When you have download the game from here, extract files from the "Escape-From-Zombieland-main.rar" you get.
+3. Then in the "Escape-From-Zombieland-main" folder, extract the both "Escape from Zombieland_Data.rar" and "UnityPlayer.rar".
+
 ### The game:
 You can start a game from the Menu. Each game ends when your character dies. At the moment, the game has an endless level, with 3 types of Zombies appearing. These types of Zombies are characterized by their different appearances and characteristics:
 - **Regular**: A basic zombie
