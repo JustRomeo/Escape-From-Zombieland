@@ -6,7 +6,6 @@ Last update: 25/11/2021
 
 Come and try our game ! (The game is still under development)
 
-
 ### The game:
 You can start a game from the Menu. Each game ends when your character dies. At the moment, the game has an endless level, with 3 types of Zombies appearing. These types of Zombies are characterized by their different appearances and characteristics:
 - **Regular**: A basic zombie
@@ -29,7 +28,8 @@ The player can collect items. These items will either be used to increase statis
 <br/>
 
 ### Your feedback:
-If you have a bug, an idea of ​​addition, or changes, do not hesitate to let us know, that's the reason for this Dropbox.
+If you have a bug, an idea of addition, or changes, do not hesitate to let us know, that's the reason for this Test.<br/>
+PLEASE read the "Bugs" and "To come up" sections before send us your feedback.
 <br/>
 <br/>
 
