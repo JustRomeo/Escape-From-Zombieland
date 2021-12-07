@@ -9,7 +9,7 @@ Come and try our game ! (The game is still under development)
 1. Download Files from this page.
 2. When you have download the game from here, extract files from the "Escape-From-Zombieland-main.rar" you get.
 3. Then in the "Escape-From-Zombieland-main" folder, extract the file "UnityPlayer.rar".
-4. Now, enter the "Escape from Zombieland_Resources" folder, and extract both files "Escape from Zombieland_Resources.rar" & "Escape from Zombieland_Resources Part1.rar".
+4. Now, enter the "Escape from Zombieland_Data" folder, and extract both files "Escape from Zombieland_Resources.rar" & "Escape from Zombieland_Resources Part1.rar".
 >To launch the game: go back in the parent folder, and double click on "Escape from Zombieland.exe"
 
 ### The game:
@@ -57,6 +57,7 @@ The game will be updated often here, so be sure to check back to see the progres
 ### Known Bugs:
 * Player take damage from zombies when he's under them.
 * Some Items can move when the player move around theme.
+* When a zombie touch the player, he can disapear without reasons.
 * When player go in the shop, and then leave, the items respawn at the exact same emplacement.
 <br/>
 <br/>
