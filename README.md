@@ -8,7 +8,9 @@ Come and try our game ! (The game is still under development)
 ### Installation:
 1. Download Files from this page.
 2. When you have download the game from here, extract files from the "Escape-From-Zombieland-main.rar" you get.
-3. Then in the "Escape-From-Zombieland-main" folder, extract the both files in the "Escape from Zombieland_Resources" folder.
+3. Then in the "Escape-From-Zombieland-main" folder, extract the file "UnityPlayer.rar".
+4. Now, enter the "Escape from Zombieland_Resources" folder, and extract both files "Escape from Zombieland_Resources.rar" & "Escape from Zombieland_Resources Part1.rar".
+>To launch the game: go back in the parent folder, and double click on "Escape from Zombieland.exe"
 
 ### The game:
 You can start a game from the Menu. Each game ends when your character dies. At the moment, the game has an endless level, with 3 types of Zombies appearing. These types of Zombies are characterized by their different appearances and characteristics:
