@@ -16,6 +16,7 @@ Come and try our game ! (The game is still under development)
 You can start a game from the Menu. Each game ends when your character dies. At the moment, the game has an endless level, with 3 types of Zombies appearing. These types of Zombies are characterized by their different appearances and characteristics:
 - **Regular**: A basic zombie
 - **Runner**: A fast zombie
+- **Tank**: A zombie with many health points
 - **Blower**: a Zombie that explodes near the player
 
 The player can shoot these zombies in 4 different directions: up, right, down, and left. Zombies have random health points. These numbers of life points are more or less high depending on the type of Zombie.
@@ -31,8 +32,8 @@ Be careful, some items are fake one ! When player take it, he take damage.
 <br/>
 
 >/!\\ WARNING /!\\
->For the moment the inventory is visible but only 2 items are usable.
->Extinguisher & Healer Pack
+>For the moment the inventory is visible but only 3 items are usable.
+>Extinguisher, Axe & Healer Pack
 
 ### Sounds:
 They're sounds in the game, when the player shot, take damage and pick up items
@@ -75,6 +76,7 @@ The game is not over, before submitting your feedback to us, we invite you to re
      - Purchase of item in the shop
      - Buildings Design
      - healing slider bar time
+     - Remote Controller System Rework
 
 * Improvements
      - More Zombies types
