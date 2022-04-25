@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PowerUp
+  - ShopBuy
+  - Zombie
+  - Brain
+  - Weapon
+  - Pistol
+  - Rifle
+  - Shotgun
+  - Sniper
+  - Bullet
+  - Wall
+  - doorShop
+  - PickUp
+  - Fake Items
+  - ShopExit
+  - reloadSlider
+  - PauseMenu
+  - OptionMenu
+  - Door
+  - Particles
+  - Healerbar
+  - HealerBar
+  - Inventory
+  - zombieSpawners
+  - HealerBar
+  - level1Door
+  - HealParticles
+  - level2Door
+  - level3Door
+  - ExitGame
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 96499327
+    locked: 0
+  - name: Map
+    uniqueID: 126423207
+    locked: 0
+  - name: Foreground
+    uniqueID: 402133679
+    locked: 0
+  - name: Obstacle
+    uniqueID: 230412233
+    locked: 0
+  - name: PowerUp
+    uniqueID: 956890153
+    locked: 0
+  - name: Fire
+    uniqueID: 2800850383
+    locked: 0
+  - name: Player
+    uniqueID: 101981781
+    locked: 0
+  - name: Zombies
+    uniqueID: 3038552917
+    locked: 0
+  - name: Weapons
+    uniqueID: 2564713171
+    locked: 0
+  - name: Decoration
+    uniqueID: 3757814611
+    locked: 0
+  - name: PaticleForground
+    uniqueID: 699155337
+    locked: 0
+  - name: UI
+    uniqueID: 3504313837
+    locked: 0
+  - name: Object_UI
+    uniqueID: 2105786897
+    locked: 0
